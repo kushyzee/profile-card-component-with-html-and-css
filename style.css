@@ -77,7 +77,7 @@ h1>span, .city {
 }
 
 p {
-    letter-spacing: 0.15rem;
+    letter-spacing: 0.2rem;
 }
 
 .profile-stats {
@@ -91,12 +91,12 @@ h2 {
     font-size: 1.8rem;
     font-weight: 700;
     margin-bottom: 0.5rem;
-    color: hsl(227, 10%, 46%);
+    color: rgb(106,111,129);
 }
 
 .profile-stats>div>p {
     color: rgb(150,150,150);
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 
 footer {
