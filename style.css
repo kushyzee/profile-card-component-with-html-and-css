@@ -68,16 +68,17 @@ h1 {
 h1>span {
     margin-left: 0.6rem;
     font-weight: 400;
+    color: rgb(106,111,129);
 }
 
 .city {
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     letter-spacing: 0.1rem;
 }
 
 
 h1>span, .city {
-    color: rgb(150,150,150);
+    color: rgb(106,111,129);
     margin-bottom: 2rem;
 }
 
@@ -88,7 +89,7 @@ p {
 .profile-stats {
     display: flex;
     justify-content: space-around;
-    border-top: 0.1rem rgba(150,150,150, 0.4) solid;
+    border-top: 0.1rem rgba(150,150,150, 0.2) solid;
     padding: 2.5rem 3rem;
 }
 
@@ -100,7 +101,7 @@ h2 {
 }
 
 .profile-stats>div>p {
-    color: rgb(150,150,150);
+    color: rgb(106,111,129);
     font-size: 1rem;
 }
 
@@ -114,6 +115,7 @@ footer {
 
 .attribution>p {
     display: inline;
+    letter-spacing: normal;
 }
 
 .attribution a{
